@@ -2,7 +2,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone https://github.com/rustsol/swisstronik-deploy-proxy
 ```
 
 ```bash
