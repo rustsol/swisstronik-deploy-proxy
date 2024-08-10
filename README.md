@@ -1,18 +1,3 @@
-# Swisstronik Tesnet Techinal Task 6 (Deploy Proxy)
-
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
-Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
-
-## Steps
 
 ### 1. Clone Repository
 
